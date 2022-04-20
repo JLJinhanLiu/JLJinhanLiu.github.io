@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+This is a blog for a nerdy guy to write about his nerdy stuff.
 
-### More Information
+### This is a header
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+... and I didn't bother finishing the concent. C'mon, it's a work in progres.
